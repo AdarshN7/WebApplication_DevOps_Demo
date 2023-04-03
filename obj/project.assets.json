@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\adarsh-nishad\\demo\\WebApplication_DevOps_Demo\\WebApplication_DevOps_Demo.csproj",
+      "projectUniqueName": "D:\\Learning\\New folder\\WebApplication_DevOps_Demo\\WebApplication_DevOps_Demo.csproj",
       "projectName": "WebApplication_DevOps_Demo",
-      "projectPath": "D:\\adarsh-nishad\\demo\\WebApplication_DevOps_Demo\\WebApplication_DevOps_Demo.csproj",
+      "projectPath": "D:\\Learning\\New folder\\WebApplication_DevOps_Demo\\WebApplication_DevOps_Demo.csproj",
       "packagesPath": "C:\\Users\\adarshnishad\\.nuget\\packages\\",
-      "outputPath": "D:\\adarsh-nishad\\demo\\WebApplication_DevOps_Demo\\obj\\",
+      "outputPath": "D:\\Learning\\New folder\\WebApplication_DevOps_Demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
