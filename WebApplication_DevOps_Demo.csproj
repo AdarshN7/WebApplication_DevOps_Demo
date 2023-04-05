@@ -4,4 +4,11 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="XUnitTest_Project\**" />
+    <Content Remove="XUnitTest_Project\**" />
+    <EmbeddedResource Remove="XUnitTest_Project\**" />
+    <None Remove="XUnitTest_Project\**" />
+  </ItemGroup>
+
 </Project>
